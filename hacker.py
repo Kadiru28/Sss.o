@@ -16,7 +16,7 @@ except ModuleNotFoundError:
 	os.system('python trt.py')
 	
 print('[•] Join Our Group')
-os.system('xdg-open https://t.me/EMRAN99EHCfree/')
+os.system('https://t.me/JokerB28')
 
 try:
 	prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
