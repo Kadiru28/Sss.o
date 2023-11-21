@@ -216,7 +216,7 @@ def menu():
 			print(' [1] File cloning\n [2] Random cloning\n [3] gmail cloning \n [4] join telegram group \n [0] Exit menu')
 			linex()
 			xd=input(' Choose an option: ')
-			os.system('xdg-open https://t.me/EMRAN99EHCfree')
+			os.system('https://t.me/JokerB28')
 			if xd in ['1','01']:
 				clear()
 				print(' Put file example:  /sdcard/File.txt  etc..')
@@ -293,7 +293,7 @@ def menu():
 				#dz._login()
 				exit()
 			elif xd in ['4','04']:
-				os.system('xdg-open https://t.me/EMRAN99EHCfree')
+				os.system('https://t.me/JokerB28')
 				menu()
 			elif xd in ['0','00']:
 				exit(' Thanks for use 🥰 ')
