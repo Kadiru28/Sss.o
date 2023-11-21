@@ -164,7 +164,7 @@ logo=("""/$$$$$$$          /$$$$$$   /$$$$$$
 \033[1;32m[✓]VERSION :\033[1;32m 1.1
 \033[1;32m[✓]STATUS  :\033[1;32m fire 🔥
 \033[1;95m===============================================================""")
-Hacking Algeria Welcome everyone ☠️🇩🇿🇵🇸🥰
+Hacking Algeria Welcome everyone 🔥🃏
 Facebook account hunting 🃏Al-Masili🃏
 ===========================================================
 def linex():
